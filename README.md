@@ -37,3 +37,7 @@ Certainly! Here's the updated section:
 2. KHYATHI KANCHARLA - Database Management and Frontend Developer.
 3. VINAY PALAKONDA - UI/UX Developer.
 4. KESAVA MANIKANTA - 3D Modelling and Designing.
+
+# My Project
+
+Find the code for this project on [GitHub](https://github.com/SaiHarish820/RJPOLICE_HACK_524_CogniReality-Innovators_2.git).
